@@ -11,7 +11,7 @@ export default function Index()
       <Text style = {styles.content}> Hiii ll me the exact that apart next.</Text>
       
       <Text > Learn React Native</Text>
-       <Link href = "/about" > about page</Link>
+      
     </View>
 
   );
@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "blue" ,
+        backgroundColor: "" ,
         
       },
     content: {
